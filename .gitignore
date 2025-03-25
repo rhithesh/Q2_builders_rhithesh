@@ -1,0 +1,9 @@
+./convert.ts
+./important-wallet.json
+./node_modules
+
+convert.ts
+important-wallet.json
+node_modules
+bs58.txt
+dev-wallet.json
